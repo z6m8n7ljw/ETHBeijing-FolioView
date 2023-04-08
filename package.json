@@ -1,0 +1,42 @@
+{
+  "name": "folio-view",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "server": "python3 server.py"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^2.0.16",
+    "@rainbow-me/rainbowkit": "^0.12.1",
+    "@reduxjs/toolkit": "^1.9.3",
+    "clsx": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "dayjs": "^1.11.7",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "ethers": "^5.5.1",
+    "https-proxy-agent": "^5.0.1",
+    "next": "13.2.4",
+    "next-redux-wrapper": "^8.1.0",
+    "node-fetch": "^3.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "react-tailwindcss-datepicker": "^1.5.1",
+    "react-twitter-widgets": "^1.11.0",
+    "recharts": "^2.5.0",
+    "siwe": "^1.1.6",
+    "swr": "^2.1.0",
+    "wagmi": "^0.12.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}

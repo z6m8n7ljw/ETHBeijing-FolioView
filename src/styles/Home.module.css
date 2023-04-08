@@ -1,0 +1,42 @@
+.newsTitle {
+    font-size: 18px;
+    color: #313440;
+    line-height: 30px;
+    border-bottom: 2px solid transparent;
+    font-weight: 600;
+}
+.twitterAvatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 12px;
+    box-shadow: rgba(0, 0, 0, 0.03) 0px 0px 2px inset;
+}
+.user {
+    display: flex;
+    align-items: center;
+    color: rgb(83, 100, 113);
+}
+.twitterName {
+    margin-right: 1rem;
+    font-weight: 600;
+}
+.newsDesc {
+    color: #2d3c59;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 8px 0 16px;
+    font-weight: 400;
+}
+.newBlock {
+    cursor: pointer;
+    width: 100%;
+    padding-top: 12px;
+    box-sizing: border-box;
+    border-top: 1px solid #ededed;
+    margin-bottom: 12px;
+}
+.cardWrapper {
+    overflow-y: scroll;
+    height: 460px
+}

@@ -1,0 +1,389 @@
+[
+    {
+        "address": "0x31C7151D3D7D47aD8f487f707Ee5b06fe0062b6e",
+        "data":  [
+            {
+                "timestamp": "2023-03-05",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-06",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-07",
+                "value": -3
+            },
+            {
+                "timestamp": "2023-03-08",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-09",
+                "value": -3
+            },
+            {
+                "timestamp": "2023-03-10",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-11",
+                "value": -2
+            },
+            {
+                "timestamp": "2023-03-12",
+                "value": 5
+            },
+            {
+                "timestamp": "2023-03-13",
+                "value": -7
+            },
+            {
+                "timestamp": "2023-03-14",
+                "value": 8
+            },
+            {
+                "timestamp": "2023-03-15",
+                "value": -6
+            },
+            {
+                "timestamp": "2023-03-16",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-03-17",
+                "value": 6
+            },
+            {
+                "timestamp": "2023-03-18",
+                "value": -8
+            },
+            {
+                "timestamp": "2023-03-19",
+                "value": -1
+            },
+            {
+                "timestamp": "2023-03-20",
+                "value": 3
+            },
+            {
+                "timestamp": "2023-03-21",
+                "value": 3
+            },
+            {
+                "timestamp": "2023-03-22",
+                "value": -4
+            },
+            {
+                "timestamp": "2023-03-23",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-24",
+                "value": -4
+            },
+            {
+                "timestamp": "2023-03-25",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-26",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-03-27",
+                "value": -5
+            },
+            {
+                "timestamp": "2023-03-28",
+                "value": 5
+            },
+            {
+                "timestamp": "2023-03-29",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-30",
+                "value": -3
+            },
+            {
+                "timestamp": "2023-03-31",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-04-01",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-04-02",
+                "value": -3
+            },
+            {
+                "timestamp": "2023-04-03",
+                "value": -1
+            },
+            {
+                "timestamp": "2023-04-04",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "address": "0x760e764d769385E32959a7778908355d20eaC571",
+        "data":  [
+            {
+                "timestamp": "2023-03-05",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-06",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-07",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-08",
+                "value": -11
+            },
+            {
+                "timestamp": "2023-03-09",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-10",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-11",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-12",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-03-13",
+                "value": 10
+            },
+            {
+                "timestamp": "2023-03-14",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-15",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-16",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-17",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-18",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-19",
+                "value": -10
+            },
+            {
+                "timestamp": "2023-03-20",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-21",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-22",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-23",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-24",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-25",
+                "value": -1
+            },
+            {
+                "timestamp": "2023-03-26",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-27",
+                "value": -1
+            },
+            {
+                "timestamp": "2023-03-28",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-29",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-03-30",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-31",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-04-01",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-04-02",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-04-03",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-04-04",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "address": "2fUbtFYX1n8FSaAXJ7SrZzRBH287aYFefmxE45DJK5jM",
+        "data":  [
+            {
+                "timestamp": "2023-03-05",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-06",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-07",
+                "value": -3
+            },
+            {
+                "timestamp": "2023-03-08",
+                "value": -6
+            },
+            {
+                "timestamp": "2023-03-09",
+                "value": -5
+            },
+            {
+                "timestamp": "2023-03-10",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-11",
+                "value": -2
+            },
+            {
+                "timestamp": "2023-03-12",
+                "value": 6
+            },
+            {
+                "timestamp": "2023-03-13",
+                "value": 6
+            },
+            {
+                "timestamp": "2023-03-14",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-15",
+                "value": -5
+            },
+            {
+                "timestamp": "2023-03-16",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-03-17",
+                "value": 5
+            },
+            {
+                "timestamp": "2023-03-18",
+                "value": -1
+            },
+            {
+                "timestamp": "2023-03-19",
+                "value": 1
+            },
+            {
+                "timestamp": "2023-03-20",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-21",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-22",
+                "value": -3
+            },
+            {
+                "timestamp": "2023-03-23",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-24",
+                "value": -6
+            },
+            {
+                "timestamp": "2023-03-25",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-26",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-27",
+                "value": -5
+            },
+            {
+                "timestamp": "2023-03-28",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-03-29",
+                "value": 2
+            },
+            {
+                "timestamp": "2023-03-30",
+                "value": -2
+            },
+            {
+                "timestamp": "2023-03-31",
+                "value": 3
+            },
+            {
+                "timestamp": "2023-04-01",
+                "value": 0
+            },
+            {
+                "timestamp": "2023-04-02",
+                "value": -2
+            },
+            {
+                "timestamp": "2023-04-03",
+                "value": 3
+            },
+            {
+                "timestamp": "2023-04-04",
+                "value": 2
+            }
+        ]
+    }
+]

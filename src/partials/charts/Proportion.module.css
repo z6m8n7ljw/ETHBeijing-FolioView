@@ -1,0 +1,43 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.item {
+  font-size: 14px;
+  line-height: 20px;
+  color: #313440;
+  padding-left: 18px;
+  position: relative;
+  height: 20px;
+  flex-shrink: 0;
+  margin-right: 32px;
+}
+
+.item::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.ethereum::before {
+  background-color: #627eea;
+}
+
+.polygon::before {
+  background-color: #8247e5;
+}
+
+.bsc::before {
+  background-color: #f3ba2f;
+}
+
+.solana::before {
+  background-color: #aa4fe8;
+}

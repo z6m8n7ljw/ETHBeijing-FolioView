@@ -1,0 +1,6 @@
+{
+  "input1": { "eth": "month", "value": 1 },
+  "input2": { "bsc": "month", "value": 2 },
+  "input3": { "sol": "month", "value": 3 },
+  "input4": { "pol": "month", "value": 4 }
+}

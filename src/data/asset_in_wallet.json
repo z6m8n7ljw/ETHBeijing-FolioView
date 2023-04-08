@@ -1,0 +1,513 @@
+[
+    {
+        "address": "0x31C7151D3D7D47aD8f487f707Ee5b06fe0062b6e",
+        "data":  [
+            {
+                "timestamp": "2023-03-05",
+                "ethereum": 53,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-06",
+                "ethereum": 53,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-07",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-08",
+                "ethereum": 55,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-09",
+                "ethereum": 52,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-10",
+                "ethereum": 54,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-11",
+                "ethereum": 52,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-12",
+                "ethereum": 57,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-13",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-14",
+                "ethereum": 58,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-15",
+                "ethereum": 52,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-16",
+                "ethereum": 53,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-17",
+                "ethereum": 59,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-18",
+                "ethereum": 51,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-19",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-20",
+                "ethereum": 53,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-21",
+                "ethereum": 56,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-22",
+                "ethereum": 52,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-23",
+                "ethereum": 54,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-24",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-25",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-26",
+                "ethereum": 51,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-27",
+                "ethereum": 46,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-28",
+                "ethereum": 51,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-29",
+                "ethereum": 53,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-30",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-03-31",
+                "ethereum": 51,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-04-01",
+                "ethereum": 53,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-04-02",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-04-03",
+                "ethereum": 49,
+                "polygon": 1,
+                "bsc": 2
+            },
+            {
+                "timestamp": "2023-04-04",
+                "ethereum": 49,
+                "polygon": 1,
+                "bsc": 2
+            }
+        ]
+    },
+    {
+        "address": "0x760e764d769385E32959a7778908355d20eaC571",
+        "data":  [
+            {
+                "timestamp": "2023-03-05",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-06",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-07",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-08",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-09",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-10",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-11",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-12",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-13",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-14",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-15",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-16",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-17",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-18",
+                "ethereum": 50,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-19",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-20",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-21",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-22",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-23",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-24",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-25",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-26",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-27",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-28",
+                "ethereum": 40,
+                "polygon": 0,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-29",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-30",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-03-31",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-04-01",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-04-02",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-04-03",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            },
+            {
+                "timestamp": "2023-04-04",
+                "ethereum": 40,
+                "polygon": 1,
+                "bsc": 1
+            }
+        ]
+    },
+    {
+        "address": "2fUbtFYX1n8FSaAXJ7SrZzRBH287aYFefmxE45DJK5jM",
+        "data":  [
+            {
+                "timestamp": "2023-03-05",
+                "solana": 129
+            },
+            {
+                "timestamp": "2023-03-06",
+                "solana": 129
+            },
+            {
+                "timestamp": "2023-03-07",
+                "solana": 126
+            },
+            {
+                "timestamp": "2023-03-08",
+                "solana": 120
+            },
+            {
+                "timestamp": "2023-03-09",
+                "solana": 115
+            },
+            {
+                "timestamp": "2023-03-10",
+                "solana": 117
+            },
+            {
+                "timestamp": "2023-03-11",
+                "solana": 115
+            },
+            {
+                "timestamp": "2023-03-12",
+                "solana": 121
+            },
+            {
+                "timestamp": "2023-03-13",
+                "solana": 127
+            },
+            {
+                "timestamp": "2023-03-14",
+                "solana": 129
+            },
+            {
+                "timestamp": "2023-03-15",
+                "solana": 124
+            },
+            {
+                "timestamp": "2023-03-16",
+                "solana": 125
+            },
+            {
+                "timestamp": "2023-03-17",
+                "solana": 130
+            },
+            {
+                "timestamp": "2023-03-18",
+                "solana": 129
+            },
+            {
+                "timestamp": "2023-03-19",
+                "solana": 130
+            },
+            {
+                "timestamp": "2023-03-20",
+                "solana": 132
+            },
+            {
+                "timestamp": "2023-03-21",
+                "solana": 132
+            },
+            {
+                "timestamp": "2023-03-22",
+                "solana": 129
+            },
+            {
+                "timestamp": "2023-03-23",
+                "solana": 131
+            },
+            {
+                "timestamp": "2023-03-24",
+                "solana": 125
+            },
+            {
+                "timestamp": "2023-03-25",
+                "solana": 125
+            },
+            {
+                "timestamp": "2023-03-26",
+                "solana": 127
+            },
+            {
+                "timestamp": "2023-03-27",
+                "solana": 122
+            },
+            {
+                "timestamp": "2023-03-28",
+                "solana": 122
+            },
+            {
+                "timestamp": "2023-03-29",
+                "solana": 124
+            },
+            {
+                "timestamp": "2023-03-30",
+                "solana": 122
+            },
+            {
+                "timestamp": "2023-03-31",
+                "solana": 125
+            },
+            {
+                "timestamp": "2023-04-01",
+                "solana": 125
+            },
+            {
+                "timestamp": "2023-04-02",
+                "solana": 123
+            },
+            {
+                "timestamp": "2023-04-03",
+                "solana": 126
+            },
+            {
+                "timestamp": "2023-04-04",
+                "solana": 128
+            }
+        ]
+    }
+]

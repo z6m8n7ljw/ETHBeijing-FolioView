@@ -1,0 +1,17 @@
+.inner {
+  background: #6C51E1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 16px;
+  border-radius: 4px 0px 0px 4px;
+}
+
+.outer {
+  position: relative;
+  width: 165px;
+  height: 16px;
+  background: rgba(108, 81, 225, 0.24);
+  border-radius: 4px;
+  margin: 0 12px 0 20px;
+}
